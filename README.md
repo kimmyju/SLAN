@@ -39,7 +39,7 @@ You can install the required packages with the following command:
 pip install -r requirements.txt
 ```
 
-### 4. Prepare model file and SOBA Dataset
+### 4. Prepare Model File and SOBA Dataset
 
 We converted the SOBA (Shadow-Object Association) dataset originally introduced in the CVPR 2020 paper [*Instance Shadow Detection*](https://github.com/stevewongv/InstanceShadowDetection) into a semantic segmentation format suitable for our task. The final dataset consists of 1,080 training images and 30 testing images. You can download the converted SOBA dataset and original paper from [Google Drive](https://drive.google.com/drive/folders/1N5W6UsecEBteExKbKDzAPg9LIFUd6Y1p?usp=sharing).
 
@@ -116,7 +116,9 @@ SOBA Dataset. Licensed under Apache License 2.0.
 ## License
 
 This project is licensed under the **GNU General Public License v3.0** (see `LICENSE`).
-It also includes third-party data licensed under the **Apache License 2.0**.  
+
+It also includes third-party data licensed under the **Apache License 2.0**.
+
 For details, refer to the `third_party_licenses/` directory.
 
 ---
