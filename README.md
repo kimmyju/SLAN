@@ -115,10 +115,8 @@ SOBA Dataset. Licensed under Apache License 2.0.
 
 ## License
 
-This project is licensed under the **GNU General Public License v3.0** (see `LICENSE`).
-
-It also includes third-party data licensed under the **Apache License 2.0**.
-
+This project is licensed under the **GNU General Public License v3.0** (see `LICENSE`).  
+It also includes third-party data licensed under the **Apache License 2.0**.  
 For details, refer to the `third_party_licenses/` directory.
 
 ---
